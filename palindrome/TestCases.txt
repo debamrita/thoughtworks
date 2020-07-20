@@ -1,0 +1,13 @@
+W-word length
+x- no of alphabet
+y- no of integers
+z- no of special chars
+
+test cases :
+
+1. (7, 2, 4, 1)
+2. ()
+3. (0,0,0,0)
+4. (-3,-1,-1,-1)
+5. (7,1,1,1)
+6. (7, 3, 3, 1)
