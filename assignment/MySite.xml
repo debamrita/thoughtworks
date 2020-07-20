@@ -1,0 +1,8 @@
+<suite name="CouponsCom test suite" verbose="10"  parallel="false">
+  
+    <test name="PlaceOrder">
+        <classes>
+        <class name="com.thoughtworks.assignment.orders.PlaceOrder"/>
+        </classes>
+    </test>
+</suite>
